@@ -1,0 +1,9 @@
+{
+  "firebase": "dapperlapper",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
